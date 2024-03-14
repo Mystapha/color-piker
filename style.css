@@ -1,0 +1,28 @@
+#color-box{
+    width: 400px; /* Largeur du carreau */
+    height: 400px; /* Hauteur du carreau */
+    background-color: #52dd37; /* Couleur de fond */
+    border: 2px solid #000; /* Bordure */
+    text-align: center; /* Alignement du texte */
+    line-height: 200px; /* Hauteur de ligne pour centrer le texte verticalement */
+    font-size: 20px; /* Taille de la police */
+    margin-top: 50px;
+    margin-left: 120px;
+  }
+  .col1 h1{
+    margin-top: 50px;
+    text-align: center;
+    color: brown;
+  }
+
+  #change-coleur-btn{
+    font-weight: 650;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left:25px
+  }
+  
+  #change-coleur-btn:hover {
+  background-color: #52dd37;
+  box-shadow: 1px 2px 2.5px;
+  }
